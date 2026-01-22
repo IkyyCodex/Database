@@ -1,13 +1,11 @@
-Helo I am RizzXyzz Developer Dream Crasher
+# Helo I am RizzXyzz Developer Dream Crasher
 
-You Can Set Up Or Add Your Telegram Bot Token To The Repo Database Here
- __________________________
-|                          |
-|  Thanks To My Team 👇👇  |
-|__________________________|
+# You Can Set Up Or Add Your Telegram Bot Token To The Repo Database Here
 
-|Rixzz Official { My Friends }
-|Draxzz Official { My Friends }
-|Gax Official { My Friends }
-|Zalien Official { My Friends }
---------------------------------
+# Thanks To My Team
+```js
+Rixzz Official { My Friends }
+Draxzz Official { My Friends }
+Gax Official { My Friends }
+Zalien Official { My Friends }
+```
